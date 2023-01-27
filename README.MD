@@ -5,16 +5,44 @@
 <p align='center'>
   A .
 </p>
-
+<body>
+	<div class="content">
+		<div class="profilecard">
+			<div class="me">
+				<div class="avatar">
+					<img src="https://discord.com/assets/6debd47ed13483642cf09e832ed0bc1b.png" />
+				</div>
+				<div class="username">
+					<span><strong>Discordian</strong>#1234</span>
+				</div>
+			</div>
+			<div class="role">
+				<span><strong>NO ROLES</strong></span>
+			</div>
+			<div class="note">
+				<div class="noteheader">
+					<span><strong>NOTE</strong></span>
+				</div>
+				<textarea>Click here to add a note</textarea>
+			</div>
+			<div class="message">
+				<input type="text" id="message" placeholder="Message @Discordian" autofocus />
+			</div>
+			<div class="tip">
+				<span><strong>PROTIP: </strong>Right click user for more actions</span>
+			</div>
+		</div>
+	</div>
+</body />
 
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="[https://www.linkedin.com/in/saivamshi]">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/alexandresanlim">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="[https://img.shields.io/badge/discord-808080.svg?&style=for-the-badge&logo=discord&logoColor=white]" />        
   </a>&nbsp;&nbsp;
   
 </p>
