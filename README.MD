@@ -24,7 +24,7 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.d36c53534a2b.png" />
+  <img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.d36c53534a2b.png"  height="40"/>
 </p>
 
 
