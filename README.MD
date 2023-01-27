@@ -9,7 +9,7 @@
 
 <p align='center'>
   
-  <a href="[https://www.linkedin.com/in/saivamshi]">
+  <a href="https://www.linkedin.com/in/saivamshi">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/928351812866691133">
