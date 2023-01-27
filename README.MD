@@ -40,7 +40,7 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="c++" width="40" height="40"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/typescript.png" alt="typescript" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/javascript.png" alt="javascript" width="40" height="40"/></a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/html-5--v1.png" alt="html" width="40" height="40"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/html-5.png" alt="html" width="40" height="40"/></a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/css3.png" alt="css" width="40" height="40"/></a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/firebase.png" alt="firebase" width="40" height="40"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/my-sql.png" alt="mysql" width="40" height="40"/> </a> 
