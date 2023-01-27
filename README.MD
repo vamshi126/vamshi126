@@ -15,10 +15,9 @@
   <a href="https://discord.com/users/928351812866691133">
     <img src="https://img.shields.io/badge/discord-808080.svg?&style=for-the-badge&logo=discord&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  < align='center'>
-
-![](https://dcbadge.vercel.app/api/shield/928351812866691133)
-</>
+  
+![](https://dcbadge.vercel.app/api/shield/928351812866691133
+</p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vamshi126&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
