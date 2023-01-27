@@ -2,7 +2,7 @@
   Hi 👋, I'm Sai Vamshi
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=A+Computer+Science+Graduate+;A+Tech+Enthusiast+;A+Web+Developer+)](https://git.io/typing-svg)
+
 
 
 
