@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi 👋, I'm Sai Vamshi
+  Hi there👋
 </h1>
 
 
@@ -9,8 +9,8 @@
 
 
 
-<p align='center'>
-  
+<p >
+  <p>📬 Reach out to me:</p>
   <a href="https://www.linkedin.com/in/saivamshi">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -21,7 +21,7 @@
 
 
 </p>
-<p align='center'>
+<p >
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vamshi126&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
