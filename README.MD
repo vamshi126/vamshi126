@@ -25,14 +25,14 @@
 
 
 
-<p align='center'>
-  💻 My workspace<br/><br/>
+
+<h2>  💻 My workspace </h2>
   <img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.d36c53534a2b.png"  height="50"/>
-</p>
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h2 align="left">Languages and Tools:</h2>
 <a href="https:#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/> </a>  
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/c-programming.png" alt="c" width="40" height="40"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="c++" width="40" height="40"/> </a> 
