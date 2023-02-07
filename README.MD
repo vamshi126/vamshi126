@@ -1,11 +1,14 @@
-<p>
-  Hi there👋
-</p>
+<h2 align="center">👋 Hello! I'm Sai Vamshi.</h2>
 
+ <div align="center">
+<a href="https://www.linkedin.com/in/saivamshi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://discord.com/users/928351812866691133"><img src="https://img.shields.io/badge/discord-808080.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 
+</div>
 
+-------
 
-**Weekly development breakdown**
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```text
@@ -22,30 +25,14 @@ HTML         1 min           ▓░░░░░░░░░░░░░░░░
 
 
 
-<p >
-  <p>📬 Reach out to me:</p>
-  <a href="https://www.linkedin.com/in/saivamshi">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/928351812866691133">
-    <img src="https://img.shields.io/badge/discord-808080.svg?&style=for-the-badge&logo=discord&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-
-
-</p>
 
 
 
 
+<!--
 
-<p>  💻 My workspace </p>
-  <img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.d36c53534a2b.png"  height="50"/>
-
-
-
-
-<p>Languages and Tools:</p>
+**Languages and Tools:**
+<div>
 <a href="https:#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/> </a>  
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/c-programming.png" alt="c" width="40" height="40"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/c-plus-plus-logo.png" alt="c++" width="40" height="40"/> </a> 
@@ -56,7 +43,13 @@ HTML         1 min           ▓░░░░░░░░░░░░░░░░
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/firebase.png" alt="firebase" width="40" height="40"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/my-sql.png" alt="mysql" width="40" height="40"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/bash.png" alt="bash" width="40" height="40"/> </a> 
+</div>
+-->
 
 
+</div>
+  
 
+
+</div>
 
