@@ -1,6 +1,11 @@
 <p>
   Hi there👋
 </p>
+
+
+
+
+**Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```text
@@ -13,9 +18,6 @@ HTML         1 min           ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vamshi126&theme=github)
 
 
 
