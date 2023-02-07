@@ -6,6 +6,12 @@
 
 </div>
 
+- 🔭 I’m currently 
+- 🌱 I’m currently learning more on UI/UX Practices
+- 💬 Ask me about **Java, Git and Typescript**
+- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
+- ⚡ Fun fact: Big Fan of the :zap: emoji
+
 -------
 
 📊 **Weekly development breakdown**
