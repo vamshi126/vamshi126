@@ -5,6 +5,7 @@
 <a href="https://discord.com/users/928351812866691133"><img src="https://img.shields.io/badge/discord-808080.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 </div>
+<br/>
 
 🔭 I’m currently looking kickstart my career as a Software Developer <br/>
 🌱 I’m currently learning more on UI/UX Practices<br/>
