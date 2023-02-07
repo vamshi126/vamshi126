@@ -6,11 +6,11 @@
 
 </div>
 
-- 🔭 I’m currently 
-- 🌱 I’m currently learning more on UI/UX Practices
-- 💬 Ask me about **Java, Git and Typescript**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+🔭 I’m currently looking kickstart my career as a Software Developer <br/>
+🌱 I’m currently learning more on UI/UX Practices<br/>
+💬 Ask me about **Java, Git and Typescript**<br/>
+📫 How to reach me: [@saivamshi](https://www.linkedin.com/in/saivamshi) on Linkedin<br/>
+⚡ Fun fact: Big Fan of the :zap: emoji<br/>
 
 -------
 
