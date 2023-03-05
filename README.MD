@@ -19,9 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-QML        28 mins         ███████████████████▒░░░░░   76.86 %
-Bash       4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-Other      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
